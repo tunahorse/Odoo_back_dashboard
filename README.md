@@ -22,6 +22,13 @@ pip install Flask
 pip install requests
 ```
 
+3. **Set Up URL**
+
+```bash
+URL = 'https://localhost:8069/web/database/backup'
+```
+
+
 ## Application Structure
 
 - A Flask application serving a dashboard and a backup form.
