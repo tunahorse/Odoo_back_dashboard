@@ -27,3 +27,5 @@ pip install requests
 - A Flask application serving a dashboard and a backup form.
 - Tailwind CSS for styling the frontend.
 
+![Screenshot](https://github.com/tunahorse/Odoo_back_dashboard/blob/main/captures_chrome-capture-2024-1-16.png)
+
